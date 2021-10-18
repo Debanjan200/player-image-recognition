@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'playerimagerecognize'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CCFE9134F1154425BFDE2470B23864C2 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_110498ADB6284CB99050B5E14E2914D0 }}
